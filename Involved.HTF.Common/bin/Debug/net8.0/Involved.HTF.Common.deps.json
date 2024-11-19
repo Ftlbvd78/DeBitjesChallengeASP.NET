@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Involved.HTF.Common/1.0.0": {
+        "runtime": {
+          "Involved.HTF.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Involved.HTF.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNoe2MwLVEA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ftlbv\\Documents\\Involved.HTF.Template\\TokenGenerator\\TokenGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ftlbv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

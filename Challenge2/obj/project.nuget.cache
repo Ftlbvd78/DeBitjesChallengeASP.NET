@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVawEwLLaOU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ftlbv\\Documents\\Involved.HTF.Template\\Challenge2\\Challenge2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ftlbv\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\ftlbv\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\ftlbv\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

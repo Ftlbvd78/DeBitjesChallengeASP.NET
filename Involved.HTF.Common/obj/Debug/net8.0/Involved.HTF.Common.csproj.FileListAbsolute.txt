@@ -1,0 +1,11 @@
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\bin\Debug\net8.0\Involved.HTF.Common.deps.json
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\bin\Debug\net8.0\Involved.HTF.Common.dll
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\bin\Debug\net8.0\Involved.HTF.Common.pdb
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.AssemblyInfoInputs.cache
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.AssemblyInfo.cs
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.csproj.CoreCompileInputs.cache
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.dll
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\refint\Involved.HTF.Common.dll
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\Involved.HTF.Common.pdb
+C:\Users\ftlbv\Documents\Involved.HTF.Template\Involved.HTF.Common\obj\Debug\net8.0\ref\Involved.HTF.Common.dll
